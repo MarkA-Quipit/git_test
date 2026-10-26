@@ -1,0 +1,20 @@
+/* Selectors */
+/* Universal selector */
+* {
+    background-color: aqua;
+}
+
+/* Type selector */
+div {
+    color: blueviolet;
+}
+
+/* Class selector */
+.div-class {
+    background-color: bisque;
+}
+
+/* ID selectore */
+#id-selector {
+    color: cadetblue;
+}
